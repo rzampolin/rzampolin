@@ -1,0 +1,20 @@
+body {
+	background-color: cyan
+}
+
+p {
+	color: lightcoral
+}
+
+bio-para {
+	width:70%
+	text-align: center
+}
+
+h1 {
+	color: olive
+}
+
+bio-wrap {
+	background-color: blue
+}
