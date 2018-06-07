@@ -1,20 +1,20 @@
-body {
+.body {
 	background-color: cyan;
 }
 
-p {
+.p {
 	color: lightcoral;
 }
 
-bio-para {
+.bio-para {
 	width: 70%;
 	text-align: center;
 }
 
-h1 {
+.h1 {
 	color: olive;
 }
 
-bio-wrap {
+.bio-wrap {
 	background-color: blue;
 }
